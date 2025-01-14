@@ -50,8 +50,8 @@
     transform: translateY(-50%);
     width: 5vh;
     height: 5vh;
-    background-color: #eee9;
-    border: 1px solid #eee9;
+    background-color: transparent;
+    border: none;
     color: #eee;
     font-size: x-large;
     font-family: monospace;
